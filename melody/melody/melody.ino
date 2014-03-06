@@ -1,3 +1,6 @@
+//I didn't write this code, merely adapted it from some other source that I can't
+//find a link to write now.  Though I'm sure a search for bletcherous arduino would 
+//turn it up.
 
 #define  cref     3830    // 261 Hz 
 #define  dref     3400    // 294 Hz 
